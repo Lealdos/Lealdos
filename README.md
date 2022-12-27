@@ -7,7 +7,7 @@
 - NodeJs
 - Flask 
 - Django 
-- 
+
 - languages
   * English 
   * spanish 
