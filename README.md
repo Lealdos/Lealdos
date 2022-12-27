@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @Lealdos
 - 👀 I’m interested in backend and marching learning
-- 🌱 I’m currently learning Python,Flask, Django 
+- 🌱 I’m currently learning new tools for increse my capacity
+- my current skills:
+- Python
+- JavaScript
+- NodeJs
+- Flask 
+- Django 
+
+English 
+spanish 
 
 - 📫 How to reach me https://www.linkedin.com/in/jleonardod/
 -                    
