@@ -27,3 +27,12 @@
 Lealdos/Lealdos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+| Command | Function
+|-------|--------
+| mv | This command can move and rename a file.
+| cp | This command can copy a file.
+| alias | This command allow to create new commands.
+| ls | This command can show us the *lists*.
+| cd | This command allow move in files. 
+| git config --global alias.ec "config --global -e"| To open the git configuration
+| alias instalar='sudo apt-get install'| To install an upgrade
