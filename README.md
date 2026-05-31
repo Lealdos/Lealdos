@@ -1,4 +1,4 @@
-# Hi, I'm Leonardo Delgado 👋
+# Hi, I'm Jose L Delgado 👋
 
 ### Software Engineer | Technical Consultant | Full-Stack Developer
 
